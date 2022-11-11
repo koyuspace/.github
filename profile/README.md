@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://content.koyu.space/img/pb-icon.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://content.koyu.space/img/logo-full.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.koyu.space/assets/pb-icon.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.koyu.space/assets/logo-full.svg">
     <img alt="Logo" src="https://content.koyu.space/img/logo-full.svg" height="120">
   </picture>
 </p>
